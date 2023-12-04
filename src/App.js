@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <h1>Welcome to My React Web Page</h1>
         <p>This page was built using Create React App.</p>
-        <p>I installed Create React App by running the commands:</p>
+        <p>Before doing anything, make sure that Node.js is installed. Then, I installed Create React App by running the commands:</p>
         <pre>
           <code>npx create-react-app react-web-page<br></br></code>
           <code>cd react-web-page<br></br></code>
